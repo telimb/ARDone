@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/build/intermediates/res/merged/release/raw_keep.xml.flat",
+        "source": "/home/madhuri/.gradle/caches/transforms-2/files-2.1/b833e58cfce3b5fda7a7f6e17d41e6b0/res/raw/keep.xml"
+    },
+    {
+        "merged": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/build/intermediates/res/merged/release/layout___arcore_education.xml.flat",
+        "source": "/home/madhuri/.gradle/caches/transforms-2/files-2.1/b833e58cfce3b5fda7a7f6e17d41e6b0/res/layout/__arcore_education.xml"
+    },
+    {
+        "merged": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/home/madhuri/Desktop/Projects/TEST/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    }
+]
